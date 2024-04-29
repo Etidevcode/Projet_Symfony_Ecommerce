@@ -14,8 +14,8 @@ La documentation officielle de Symfony <br/>
 </center>
 
 
->>> Bonjour à tous, Pourquoi Symfony ? Il s'agit d'une demande mais en manque de compétence, il me fallait me documenter et de bâtir un réelle sujet à ce sujet.
->>> Au Moment où nous avions souhaiter monter en compétence sur Symfony, il y a une grande transition au niveau. Mais nous fonctionnons de façon un peu cyclique.
+>>> Bonjour à tous, Pourquoi Symfony ? Il s'agit d'une demande mais en manque de compétence, il me fallait me documenter et bâtir un réel projet notamment comme celui-ci.
+>>> Au Moment où nous avions souhaiter monter en compétence sur Symfony, il y a une grande transition côté version. Mais nous fonctionnons de façon un peu cyclique, c'est pourquoi nous avons souhaiter achever ou du moins amélioerer cette partie.
 
 # Environnement De Developpement : PHP
 
