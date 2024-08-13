@@ -1,0 +1,28 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello HomeController!{% endblock %}
+
+{% block page_name %}Je suis dans la page index.html.twig ...{% endblock %}
+
+{% block body %}
+<style>
+    .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
+    .example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+</style>
+
+<div class="example-wrapper">
+    <h1>Hello {{ firstname }}! ✅</h1>
+
+
+    Voici tes amis : <br/>
+    {% for name in montableau %}
+        <li>{{ name }}</li>
+    {% endfor %}
+
+    This friendly message is coming from:
+    <ul>
+        <li>Your controller at <code>C:/Apprendre_Symphony_Par_La_Creation_Site/MAMP/monpremierprojet/src/Controller/HomeController.php</code></li>
+        <li>Your template at <code>C:/Apprendre_Symphony_Par_La_Creation_Site/MAMP/monpremierprojet/templates/home/index.html.twig</code></li>
+    </ul>
+</div>
+{% endblock %}

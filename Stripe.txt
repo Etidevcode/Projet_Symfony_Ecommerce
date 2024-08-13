@@ -1,0 +1,25 @@
+Stripe
+======
+
+email : relaboutiquefrancaise@yopmail.com
+Nom complet: John Doe
+mdp : )C7h9rjZ?=Uev(H
+
+https://dashboard.stripe.com/b/acct_1PAuIBDdKo3u4tXw
+clé de test : 	
+
+sk_test_51PAuIBDdKo3u4tXwArjXHhgwuNAG4vCWqJDNKJVm2TNT4aRVLXtkjPlL80Xv7eZKfppqXx9VnBZwOr58AC3ekY1j00OC6xJtOM
+
+MailJet
+===========
+
+FirstName: Etixi
+LastName : Code
+email : etixicode@gmail.com
+Password: 7HQ#h8G#pDhXrDJ
+
+clé public = b784a09783cd8d46a3e1f7818bf5f983
+clé privée : fd23598713727a272da079ff7fa20f15
+
+$to_email = relaboutiquefrancaise@yopmail.com
+

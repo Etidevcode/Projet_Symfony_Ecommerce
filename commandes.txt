@@ -1,0 +1,40 @@
+PS C:\Apprendre_Symphony_Par_La_Creation_Site\MAMP\laboutiquefrancaise> history
+
+  Id CommandLine
+  -- -----------
+   1 cd .\MAMP\
+   2 cd .\laboutiquefrancaise\
+   3 symfony console doctrine:databse:create
+
+   9 symphony console make:migration
+  10 symfony console make:migration
+  11 symphony console doctrine:migration:migrate
+  12 symfony console doctrine:migration:migrate
+  13 symfony console make:controller
+  14 symfony console
+  15 symfony console make:form
+  16 symfony make:entity
+  17 symfony console make:entity
+  18 symfony console make:migration
+  19 symfony console doctrine:migrations:migrate
+  20 php bin/console cache:clear
+
+  23 symfony -V
+  25 php bin/console cache:clear
+  26 php bin/console cache:clear
+  27 php bin/console cache:warmup
+  28 composer update symfony/symfony
+  29 symfony -V
+  30 composer update
+
+  54 symfony console make:auth
+  55 symfony console make:controller
+  56 symfony console debug:router
+  57 symfony console make:controller
+  58 symfony console make:form
+  59 composer require easycorp/easyadmin-bundle
+
+  68 symfony make:admin:dashboard
+  69 symfony console make:admin:dashboard
+  70 history
+  71 symfony console make:admin:crud
