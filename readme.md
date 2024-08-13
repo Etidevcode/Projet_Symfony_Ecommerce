@@ -210,43 +210,43 @@ symphony new laboutiquefrancaise --webapp
     + **Phase 4 :** Création d'un espace privé (membre)
 
 
-![membres](../images/image1.jpeg)
-![membres](../images/image2.jpeg)
-![membres](../images/image3.jpeg)
-![membres](../images/image4.jpeg)
-![membres](../images/image5.jpeg)
-![membres](../images/image6.jpeg)
-![membres](../images/image7.jpeg)
+![membres](images/image1.jpeg)
+![membres](images/image2.jpeg)
+![membres](images/image3.jpeg)
+![membres](images/image4.jpeg)
+![membres](images/image5.jpeg)
+![membres](images/image6.jpeg)
+![membres](images/image7.jpeg)
 
 ## Administration|EasyAdmin
 
-![EasyAdmin](../images/easyadmin1.jpeg)
-![EasyAdmin](../images/easyadmin2.jpeg)
-![EasyAdmin](../images/easyadmin3.jpeg)
-![EasyAdmin](../images/easyadmin4.jpeg)
-![EasyAdmin](../images/easyadmin6.jpeg)
-![EasyAdmin](../images/easyadmin5.jpeg)
+![EasyAdmin](images/easyadmin1.jpeg)
+![EasyAdmin](images/easyadmin2.jpeg)
+![EasyAdmin](images/easyadmin3.jpeg)
+![EasyAdmin](images/easyadmin4.jpeg)
+![EasyAdmin](images/easyadmin6.jpeg)
+![EasyAdmin](images/easyadmin5.jpeg)
 
 ## Panier
 
-![Produits](../images/panier.jpeg)
+![Produits](images/panier.jpeg)
 
 ## Commandes
 
-![Commmande0](../images/commande0.jpeg)
-![Commmande0](../images/commande1.jpeg)
-![Commmande0](../images/commande2.jpeg)
+![Commmande0](images/commande0.jpeg)
+![Commmande0](images/commande1.jpeg)
+![Commmande0](images/commande2.jpeg)
 
 ## Paiement
 
-![Paiement](../images/paiement1.jpeg)
-![Paiement](../images/paiement2.jpeg)
-![Paiement](../images/paiement3.jpeg)
+![Paiement](images/paiement1.jpeg)
+![Paiement](images/paiement2.jpeg)
+![Paiement](images/paiement3.jpeg)
 
 ## Emails
 
-![emails](../images/email1.jpeg)
-![emails](../images/email2.jpeg)
+![emails](images/email1.jpeg)
+![emails](images/email2.jpeg)
 
 
 ## Creation de l'entité User CLI
